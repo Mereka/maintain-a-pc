@@ -13,6 +13,14 @@ body {background:url(../img/body.jpg) repeat center center; position:relative;}
 .top li { display:inline; list-style-type:none;}
 .top a { text-decoration:none; padding:10px; color:#999; font-family:sans-serif;}
 .top a:hover {color:#903;}
+.area {background:#FFF;
+top:30px;
+left:5%;
+height:800px;
+width:90%;
+box-shadow:1px 1px 1px 1px;
+-webkit-box-shadow:1px 1px 1px 1px;
+}
 @media screen and (max-width:786px) {
 
 .Brand { margin-top:-50px;}
