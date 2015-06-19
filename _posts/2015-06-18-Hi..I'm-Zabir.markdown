@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Hi..I'm Zabir!"
-date:   2015-06-18 08:43:44
-categories: Website by zabir.
----
-###Connect with Me! :###
-
-This is just a post created by me.I created a simple website without brought a **domain** and **host**..It's a simple project work by me..
