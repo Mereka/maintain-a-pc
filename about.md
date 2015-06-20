@@ -1,11 +1,21 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About Emerald
 ---
+## About
+Emerald is a minimal theme created for Jekyll. The main purpose of Emerald is to provide a clear theme for those who want a blog ready to use, focused on the content and mobile-first.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vel purus sagittis, eleifend ante quis, tempus lectus. Vivamus maximus nibh lectus, sed gravida sapien imperdiet in. Curabitur non purus rutrum, iaculis mauris ac, placerat turpis. Donec vel semper enim, ut ultrices sem. Fusce rutrum, justo id porta malesuada, purus erat gravida metus, sit amet viverra turpis lacus nec mi. Aliquam et mi vel ipsum mollis aliquam eu eget augue. Morbi congue eros id nisl sagittis accumsan. Nam nec odio dolor.
+For further details on Emerald, please visit the [repository on Github](https://github.com/KingFelix/emerald/).
 
-Integer accumsan, turpis a egestas malesuada, lorem ex blandit nulla, in condimentum lectus quam et dolor. Ut dapibus, sem et efficitur efficitur, urna turpis dictum tellus, non lacinia leo sem sit amet leo. Phasellus tortor dui, consectetur sed felis in, dapibus tincidunt nisi. Nam faucibus, dolor nec ultricies euismod, risus magna condimentum elit, et dictum lorem nunc eu orci. Mauris efficitur sollicitudin mi, nec condimentum nunc euismod vel. Integer ac dictum elit. Vivamus in dui ac arcu laoreet dictum.
+![Emerald](img/Emerald01.png "Emerald")
 
-Curabitur congue aliquet nulla, ac hendrerit leo dictum in. Cras at tristique quam. Praesent euismod nec dui eu vulputate. Quisque sit amet gravida elit. Suspendisse euismod urna ut efficitur facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent fringilla, ipsum tempor ullamcorper pellentesque, purus tellus convallis ex, quis viverra arcu metus at est. Aliquam erat volutpat. Suspendisse dictum, nunc in dictum ultrices, sapien arcu venenatis tortor, eget dictum nulla sem quis nibh. Nunc id malesuada odio. Sed in dolor accumsan, vehicula neque ut, pretium est. Cras feugiat nunc et neque sagittis, in aliquam velit mattis. Nulla in massa mi. In eget efficitur neque, sit amet porttitor diam. Integer sed posuere sapien.
+### Setup
+Emerald may be installed by simply downloading the .zip folder from the [repository on Github](https://github.com/KingFelix/emerald/archive/master.zip).
+
+After extracting the content from the folder into the selected directory, you can type ``jekyll serve`` from the terminal, than open your browser to ``0.0.0.0:4000/emerald/`` and you will find it there.
+
+Additionally it is possible to fork the repository and use Github Pages as hosting. By following this way it will be enough to change the ``baseurl`` value into the ``_config.yml`` file, with the directory name of your project (for example /blog) or simply with a "/" (slash) if you want install Emerald in the root. 
+
+Last but not least: the [Jekyll documentation](http://jekyllrb.com) is the best starting point!
+
+Enjoy!
