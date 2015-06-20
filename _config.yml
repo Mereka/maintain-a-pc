@@ -1,11 +1,11 @@
 # Site settings
 title: Oliur's|music
-description: "A musical blog, build with Jekyll."
-url: "http://mereka.github.oi/maintain-a-pc/"
+description: "A musical blog, music."
+url: "http://oliurmusic.com/maintain-a-pc/"
 author:
   name: "Zabir aktar"
   email: "Zabir.aktar@gmail.com"
-  url: "http://mereka.github.oi/maintain-a-pc/"
+  url: "http://oliurmusic.com/maintain-a-pc/"
 
 # Build settings
 baseurl: /maintain-a-pc/ # Change this to your relative path (ex: /blog/), or leave just a /
