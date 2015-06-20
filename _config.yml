@@ -1,11 +1,11 @@
 # Site settings
-title: Emera | A simple Jekyll blog
-description: "A minimal blog template, build with Jekyll."
-url: "http://mereka.github.com/maintain-a-pc/"
+title: Oliur's0|music
+description: "A musical blog, build with Jekyll."
+url: "http://mereka.github.oi/maintain-a-pc/"
 author:
   name: "Zabir aktar"
   email: "Zabir.aktar@gmail.com"
-  url: "http://mereka.github.com/maintain-a-pc/"
+  url: "http://mereka.github.oi/maintain-a-pc/"
 
 # Build settings
 baseurl: /maintain-a-pc/ # Change this to your relative path (ex: /blog/), or leave just a /
